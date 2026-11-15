@@ -1,0 +1,17 @@
+# 데이터·산출물 (용량이 크고 재생성 가능)
+data/
+work/
+*.tar.gz
+*.npy
+.cache/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS·편집기
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
